@@ -1,7 +1,7 @@
 # log_model
 file_name：year_month_day_by_name.md
 
-file_struct:
+file_struct：
 
 0.Brief
   - author：xxx
